@@ -17,7 +17,7 @@
         "php": "^8.0",
         "illuminate/config": "^9.0 || ^10.0 || v11.0",
         "illuminate/database": "^9.0 || ^10.0 || v11.0",
-        "doctrine/dbal": "^3.0",
+        "doctrine/dbal": "^4.0",
         "krlove/code-generator": "^1.0"
     },
     "require-dev": {
